@@ -38,7 +38,7 @@ Semantic html helps add meaning to your html files.  It’s basically a road map
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-Inline elements don’t start on a new line and only takes up as much width as necessary. Inline elements will ignore Width and height properties.  Block elements start on a new line and take up the full width available.  
+Inline elements don’t start on a new line and only takes up as much width as necessary. Inline elements will ignore width and height properties.  Block elements start on a new line and take up the full width available.  
 
 3. What are the 4 areas of the box model?
 
@@ -46,7 +46,7 @@ Content, padding, border and margin.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-Align-items defines how items are laid out on the cross access.  Applying the center attribute will center the container with content inside it.
+Align-items defines how items are laid out on the cross access.  Applying the center attribute will center the container with the content inside it.
 
 5. Explain why git is valuable to a team of developers.
 
